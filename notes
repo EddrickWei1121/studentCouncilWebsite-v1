@@ -1,0 +1,6 @@
+notes. 
+
+download mongoose and mongodb with npm yourself lol. packages are past upload limit.
+>npm init -y
+>npm i mongoose
+>npm i mongodb
